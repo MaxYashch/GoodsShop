@@ -1,0 +1,2 @@
+# GoodsShop
+React Redux
